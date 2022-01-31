@@ -11,10 +11,10 @@
     "membersContacts": [
         {
             "name": "Angela B.",
-            "nameFull": "Angela, SecondName1",
+            "nameFull": "Angela, B",
             "track": "PM",
-            "githubName": "GithubName1",
-            "githubUrl": "https://api.github.com/users/TechLabs-Berlin/",
+            "githubName": "Angel",
+            "githubUrl": "https://api.github.com/users/TechLabs-Berlin/Angel",
             "linkedinUrl": "https://www.linkedin.com/in/bickmoreangela?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BLRV2SVRkT4%2B8NcQPXUvgUw%3D%3D",
             "emailAdress": "bickmorebusiness@yahoo.com",
             "display": true
@@ -23,8 +23,8 @@
             "name": "Ulvi",
             "nameFull": "Ulvi, Amanov",
             "track": "WD",
-            "githubName": "GithubName",
-            "githubUrl": "github_url",
+            "githubName": "ulvi",
+            "githubUrl": "https://api.github.com/users/TechLabs-Berlin/ulvi",
             "linkedinUrl": "https://www.linkedin.com/in/ulvi-amanov-a9224855?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BF4yWgjv9RgOhiTaaxU1U1A%3D%3D",
             "emailAdress": "null",
             "display": true
@@ -33,8 +33,8 @@
             "name": "Dmitri",
             "nameFull": "Dmitri, Pankov",
             "track": "AI",
-            "githubName": "GithubName",
-            "githubUrl": "github_url",
+            "githubName": "pankov",
+            "githubUrl": "https://api.github.com/users/TechLabs-Berlin/pankov",
             "linkedinUrl": "https://www.linkedin.com/in/dmpankov?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bum%2BivMZ1SOWUHXjRG8xEog%3D%3D",
             "emailAdress": "null",
             "display": true
@@ -43,8 +43,8 @@
             "name": "Iqra",
             "nameFull": "Iqra, Nowshari",
             "track": "DS",
-            "githubName": "GithubName",
-            "githubUrl": "github_url",
+            "githubName": "iqra",
+            "githubUrl": "https://api.github.com/users/TechLabs-Berlin/iqra",
             "linkedinUrl": "https://www.linkedin.com/in/iqra-nowshari-30a76118a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bu8JACKKAQXmXG%2BkTUe16Ew%3D%3D",
             "emailAdress": "null",
             "display": true
@@ -53,8 +53,8 @@
             "name": "Natasha",
             "nameFull": "Natasha, Owen Bermudez",
             "track": "UX",
-            "githubName": "GithubName",
-            "githubUrl": "github_url",
+            "githubName": "natashaowen",
+            "githubUrl": "https://api.github.com/users/TechLabs-Berlin/natashaowen",
             "linkedinUrl": "https://www.linkedin.com/in/natasha-owen-bermudez?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BY4Fyc4LGSyejqHbdbBFFmQ%3D%3D",
             "emailAdress": "info@mintygirls.com",
             "display": true
