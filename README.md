@@ -7,10 +7,6 @@ Jobzilla is an AI-driven app, which will find the best jobs for your unique set 
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
-Same text as below but with images: https://docs.google.com/document/d/1fFDFdxlIoaLuee0Gjih8htTXbiqfxoAAMLaypGDv-CE/edit?usp=sharing
-
-
 #1 - Article/Blog Post
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
