@@ -1,4 +1,10 @@
+
 # Jobzilla
+
+**The solution for jobseekers is… Jobzilla!**
+
+Jobzilla is an AI-driven app, which will find the best jobs for your unique set of skills and help to create cover letters so that no applicant tracking system (ATS) can resist! In just a few clicks, Jobzilla will enable you to start your new career journey.
+
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 
@@ -28,10 +34,6 @@ Some of you reading this might now get triggered into flashbacks of those times 
 Luckily, we have a solution to this problem.
 
 If you&#39;re trying to beat the ATS and get your application in front of the eyes of the actual recruiter, then look no further. Jobzilla allows you to beat the bot with… a bot!
-
-**The solution for jobseekers is… Jobzilla!**
-
-Jobzilla is an AI-driven app, which will find the best jobs for your unique set of skills and help to create cover letters so that no applicant tracking system (ATS) can resist! In just a few clicks, Jobzilla will enable you to start your new career journey.
 
 Our goal was to create a way for the same model and same logic that powers ATS to be used to the application process as well. If we can speak the same &#39;language&#39; as the ATS of hiring organizations, we can better break through the barriers that prevent us from landing the interviews we deserve.
 
